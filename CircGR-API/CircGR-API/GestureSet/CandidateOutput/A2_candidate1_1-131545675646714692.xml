@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "A2_candidate1_1">
+<Expected As = "A2"/>
+	<Stroke>
+		<Point X = "244" Y = "32" T = "59967" Timestamp = "1977870859" Pressure = "0" />
+		<Point X = "244" Y = "32" T = "59967" Timestamp = "1977870875" Pressure = "0" />
+	</Stroke>
+</Gesture>

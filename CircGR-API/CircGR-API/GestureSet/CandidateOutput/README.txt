@@ -1,0 +1,1 @@
+Input gestures during general interactions are stored here.

@@ -1,0 +1,1 @@
+Each trial of the experiment creates a folder with the relevant data for that user in that trial. The name of the folder is based on the timestamp of the moment the experiment was created, which is also the user id in the system.

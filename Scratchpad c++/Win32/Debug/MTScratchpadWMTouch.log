@@ -1,0 +1,8 @@
+﻿  MTScratchpadWMTouch.cpp
+c:\users\franco\documents\vip senior (ids 4918)\circgr-api\scratchpad c++\geometry.h(15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\franco\documents\vip senior (ids 4918)\circgr-api\scratchpad c++\mtscratchpadwmtouch.cpp(188): warning C4459: declaration of 'recognizer' hides global declaration
+  c:\users\franco\documents\vip senior (ids 4918)\circgr-api\scratchpad c++\mtscratchpadwmtouch.cpp(148): note: see declaration of 'recognizer'
+c:\users\franco\documents\vip senior (ids 4918)\circgr-api\scratchpad c++\mtscratchpadwmtouch.cpp(598): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  MTScratchpadWMTouch.vcxproj -> C:\Users\Franco\Documents\VIP Senior (IDS 4918)\CircGR-API\Scratchpad c++\Win32\Debug\MTScratchpadWMTouch.exe
+  MTScratchpadWMTouch.vcxproj -> Win32\Debug\MTScratchpadWMTouch.pdb (Full PDB)

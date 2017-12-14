@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\MTCircGR">
+      <UniqueIdentifier>{d0b54dee-d823-41cc-99c6-a84aaf2533ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MTCircGR">
+      <UniqueIdentifier>{38ca8bfd-d1ce-4630-9fcb-0fd15c8f8b13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scratchpad">
+      <UniqueIdentifier>{b9cd2fcb-fe57-4e38-a431-df780e2ff767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scratchpad">
+      <UniqueIdentifier>{97e4dc22-9d18-4514-a644-3cc57e3ffec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\XMLParser">
+      <UniqueIdentifier>{694b332a-df45-4a1c-a50d-00f0431b115c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\XMLParser">
+      <UniqueIdentifier>{0524aaa7-bab6-4bec-9dd8-fad2cc142507}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MTScratchpadWMTouch.cpp">
+      <Filter>Source Files\Scratchpad</Filter>
+    </ClCompile>
+    <ClCompile Include="Stroke.cpp">
+      <Filter>Source Files\Scratchpad</Filter>
+    </ClCompile>
+    <ClCompile Include="CircClassifier.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="CircGesture.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="CircGR.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="Gesture.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="PointMap.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+    <ClCompile Include="GestureParser.cpp">
+      <Filter>Source Files\XMLParser</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>Source Files\XMLParser</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>Source Files\XMLParser</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>Source Files\XMLParser</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>Source Files\XMLParser</Filter>
+    </ClCompile>
+    <ClCompile Include="Start.cpp">
+      <Filter>Source Files\MTCircGR</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files\Scratchpad</Filter>
+    </ClInclude>
+    <ClInclude Include="Stroke.h">
+      <Filter>Header Files\Scratchpad</Filter>
+    </ClInclude>
+    <ClInclude Include="CircClassifier.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="CircGesture.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="CircGR.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="Gesture.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="Recognizer.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+    <ClInclude Include="GestureParser.h">
+      <Filter>Header Files\XMLParser</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>Header Files\XMLParser</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>Header Files\XMLParser</Filter>
+    </ClInclude>
+    <ClInclude Include="PointMap.h">
+      <Filter>Header Files\MTCircGR</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MTScratchpadWMTouch.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

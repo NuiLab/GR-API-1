@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "B4">
+<Expected As = "B4"/>
+	<Stroke>
+		<Point X = "1189" Y = "273" T = "88" Timestamp = "40430513" Pressure = "0" />
+		<Point X = "1189" Y = "273" T = "88" Timestamp = "40431543" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "1061" Y = "323" T = "89" Timestamp = "40430513" Pressure = "0" />
+		<Point X = "1061" Y = "323" T = "89" Timestamp = "40431512" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "1298" Y = "309" T = "90" Timestamp = "40430529" Pressure = "0" />
+		<Point X = "1298" Y = "310" T = "90" Timestamp = "40430966" Pressure = "0" />
+		<Point X = "1299" Y = "310" T = "90" Timestamp = "40431044" Pressure = "0" />
+		<Point X = "1299" Y = "310" T = "90" Timestamp = "40431543" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "860" Y = "809" T = "91" Timestamp = "40430779" Pressure = "0" />
+		<Point X = "860" Y = "808" T = "91" Timestamp = "40430810" Pressure = "0" />
+		<Point X = "861" Y = "805" T = "91" Timestamp = "40430825" Pressure = "0" />
+		<Point X = "862" Y = "801" T = "91" Timestamp = "40430841" Pressure = "0" />
+		<Point X = "862" Y = "798" T = "91" Timestamp = "40430841" Pressure = "0" />
+		<Point X = "862" Y = "794" T = "91" Timestamp = "40430857" Pressure = "0" />
+		<Point X = "862" Y = "791" T = "91" Timestamp = "40430857" Pressure = "0" />
+		<Point X = "862" Y = "787" T = "91" Timestamp = "40430872" Pressure = "0" />
+		<Point X = "862" Y = "783" T = "91" Timestamp = "40430888" Pressure = "0" />
+		<Point X = "862" Y = "779" T = "91" Timestamp = "40430888" Pressure = "0" />
+		<Point X = "862" Y = "775" T = "91" Timestamp = "40430903" Pressure = "0" />
+		<Point X = "862" Y = "766" T = "91" Timestamp = "40430919" Pressure = "0" />
+		<Point X = "862" Y = "757" T = "91" Timestamp = "40430919" Pressure = "0" />
+		<Point X = "862" Y = "754" T = "91" Timestamp = "40430935" Pressure = "0" />
+		<Point X = "862" Y = "750" T = "91" Timestamp = "40430935" Pressure = "0" />
+		<Point X = "862" Y = "740" T = "91" Timestamp = "40430950" Pressure = "0" />
+		<Point X = "862" Y = "736" T = "91" Timestamp = "40430966" Pressure = "0" />
+		<Point X = "862" Y = "728" T = "91" Timestamp = "40430966" Pressure = "0" />
+		<Point X = "861" Y = "720" T = "91" Timestamp = "40430981" Pressure = "0" />
+		<Point X = "860" Y = "712" T = "91" Timestamp = "40430997" Pressure = "0" />
+		<Point X = "859" Y = "708" T = "91" Timestamp = "40430997" Pressure = "0" />
+		<Point X = "859" Y = "705" T = "91" Timestamp = "40431013" Pressure = "0" />
+		<Point X = "859" Y = "695" T = "91" Timestamp = "40431013" Pressure = "0" />
+		<Point X = "858" Y = "687" T = "91" Timestamp = "40431028" Pressure = "0" />
+		<Point X = "857" Y = "679" T = "91" Timestamp = "40431044" Pressure = "0" />
+		<Point X = "857" Y = "670" T = "91" Timestamp = "40431044" Pressure = "0" />
+		<Point X = "856" Y = "666" T = "91" Timestamp = "40431059" Pressure = "0" />
+		<Point X = "856" Y = "658" T = "91" Timestamp = "40431075" Pressure = "0" />
+		<Point X = "855" Y = "649" T = "91" Timestamp = "40431075" Pressure = "0" />
+		<Point X = "855" Y = "646" T = "91" Timestamp = "40431091" Pressure = "0" />
+		<Point X = "855" Y = "641" T = "91" Timestamp = "40431091" Pressure = "0" />
+		<Point X = "854" Y = "633" T = "91" Timestamp = "40431106" Pressure = "0" />
+		<Point X = "854" Y = "625" T = "91" Timestamp = "40431122" Pressure = "0" />
+		<Point X = "854" Y = "622" T = "91" Timestamp = "40431122" Pressure = "0" />
+		<Point X = "853" Y = "618" T = "91" Timestamp = "40431137" Pressure = "0" />
+		<Point X = "853" Y = "608" T = "91" Timestamp = "40431137" Pressure = "0" />
+		<Point X = "853" Y = "600" T = "91" Timestamp = "40431153" Pressure = "0" />
+		<Point X = "852" Y = "596" T = "91" Timestamp = "40431169" Pressure = "0" />
+		<Point X = "853" Y = "592" T = "91" Timestamp = "40431169" Pressure = "0" />
+		<Point X = "852" Y = "583" T = "91" Timestamp = "40431184" Pressure = "0" />
+		<Point X = "853" Y = "579" T = "91" Timestamp = "40431184" Pressure = "0" />
+		<Point X = "853" Y = "575" T = "91" Timestamp = "40431200" Pressure = "0" />
+		<Point X = "852" Y = "566" T = "91" Timestamp = "40431215" Pressure = "0" />
+		<Point X = "852" Y = "557" T = "91" Timestamp = "40431215" Pressure = "0" />
+		<Point X = "852" Y = "553" T = "91" Timestamp = "40431231" Pressure = "0" />
+		<Point X = "852" Y = "550" T = "91" Timestamp = "40431247" Pressure = "0" />
+		<Point X = "852" Y = "545" T = "91" Timestamp = "40431247" Pressure = "0" />
+		<Point X = "852" Y = "537" T = "91" Timestamp = "40431262" Pressure = "0" />
+		<Point X = "852" Y = "533" T = "91" Timestamp = "40431262" Pressure = "0" />
+		<Point X = "851" Y = "529" T = "91" Timestamp = "40431278" Pressure = "0" />
+		<Point X = "851" Y = "525" T = "91" Timestamp = "40431293" Pressure = "0" />
+		<Point X = "851" Y = "521" T = "91" Timestamp = "40431293" Pressure = "0" />
+		<Point X = "851" Y = "518" T = "91" Timestamp = "40431309" Pressure = "0" />
+		<Point X = "851" Y = "514" T = "91" Timestamp = "40431309" Pressure = "0" />
+		<Point X = "851" Y = "510" T = "91" Timestamp = "40431325" Pressure = "0" />
+		<Point X = "851" Y = "507" T = "91" Timestamp = "40431340" Pressure = "0" />
+		<Point X = "851" Y = "504" T = "91" Timestamp = "40431340" Pressure = "0" />
+		<Point X = "851" Y = "502" T = "91" Timestamp = "40431356" Pressure = "0" />
+		<Point X = "851" Y = "500" T = "91" Timestamp = "40431356" Pressure = "0" />
+		<Point X = "851" Y = "497" T = "91" Timestamp = "40431371" Pressure = "0" />
+		<Point X = "851" Y = "496" T = "91" Timestamp = "40431387" Pressure = "0" />
+		<Point X = "851" Y = "494" T = "91" Timestamp = "40431387" Pressure = "0" />
+		<Point X = "851" Y = "491" T = "91" Timestamp = "40431403" Pressure = "0" />
+		<Point X = "851" Y = "489" T = "91" Timestamp = "40431403" Pressure = "0" />
+		<Point X = "851" Y = "488" T = "91" Timestamp = "40431418" Pressure = "0" />
+		<Point X = "851" Y = "488" T = "91" Timestamp = "40431434" Pressure = "0" />
+	</Stroke>
+</Gesture>

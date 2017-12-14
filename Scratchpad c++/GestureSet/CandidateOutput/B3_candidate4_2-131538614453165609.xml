@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "B3_candidate4_2">
+<Expected As = "B3"/>
+	<Stroke>
+		<Point X = "566" Y = "370" T = "35327" Timestamp = "1271744031" Pressure = "0" />
+		<Point X = "565" Y = "370" T = "35327" Timestamp = "1271744142" Pressure = "0" />
+		<Point X = "564" Y = "370" T = "35327" Timestamp = "1271744172" Pressure = "0" />
+		<Point X = "563" Y = "370" T = "35327" Timestamp = "1271744177" Pressure = "0" />
+		<Point X = "562" Y = "369" T = "35327" Timestamp = "1271744183" Pressure = "0" />
+		<Point X = "560" Y = "369" T = "35327" Timestamp = "1271744188" Pressure = "0" />
+		<Point X = "559" Y = "369" T = "35327" Timestamp = "1271744194" Pressure = "0" />
+		<Point X = "555" Y = "369" T = "35327" Timestamp = "1271744199" Pressure = "0" />
+		<Point X = "551" Y = "369" T = "35327" Timestamp = "1271744203" Pressure = "0" />
+		<Point X = "547" Y = "368" T = "35327" Timestamp = "1271744208" Pressure = "0" />
+		<Point X = "543" Y = "368" T = "35327" Timestamp = "1271744214" Pressure = "0" />
+		<Point X = "539" Y = "368" T = "35327" Timestamp = "1271744218" Pressure = "0" />
+		<Point X = "535" Y = "368" T = "35327" Timestamp = "1271744223" Pressure = "0" />
+		<Point X = "531" Y = "368" T = "35327" Timestamp = "1271744228" Pressure = "0" />
+		<Point X = "527" Y = "368" T = "35327" Timestamp = "1271744235" Pressure = "0" />
+		<Point X = "522" Y = "368" T = "35327" Timestamp = "1271744240" Pressure = "0" />
+		<Point X = "518" Y = "368" T = "35327" Timestamp = "1271744245" Pressure = "0" />
+		<Point X = "514" Y = "368" T = "35327" Timestamp = "1271744249" Pressure = "0" />
+		<Point X = "509" Y = "368" T = "35327" Timestamp = "1271744254" Pressure = "0" />
+		<Point X = "505" Y = "368" T = "35327" Timestamp = "1271744260" Pressure = "0" />
+		<Point X = "500" Y = "368" T = "35327" Timestamp = "1271744264" Pressure = "0" />
+		<Point X = "496" Y = "368" T = "35327" Timestamp = "1271744269" Pressure = "0" />
+		<Point X = "492" Y = "367" T = "35327" Timestamp = "1271744274" Pressure = "0" />
+		<Point X = "487" Y = "367" T = "35327" Timestamp = "1271744279" Pressure = "0" />
+		<Point X = "483" Y = "367" T = "35327" Timestamp = "1271744285" Pressure = "0" />
+		<Point X = "479" Y = "367" T = "35327" Timestamp = "1271744290" Pressure = "0" />
+		<Point X = "474" Y = "367" T = "35327" Timestamp = "1271744295" Pressure = "0" />
+		<Point X = "470" Y = "367" T = "35327" Timestamp = "1271744300" Pressure = "0" />
+		<Point X = "465" Y = "367" T = "35327" Timestamp = "1271744306" Pressure = "0" />
+		<Point X = "461" Y = "367" T = "35327" Timestamp = "1271744311" Pressure = "0" />
+		<Point X = "457" Y = "367" T = "35327" Timestamp = "1271744316" Pressure = "0" />
+		<Point X = "452" Y = "367" T = "35327" Timestamp = "1271744321" Pressure = "0" />
+		<Point X = "447" Y = "367" T = "35327" Timestamp = "1271744325" Pressure = "0" />
+		<Point X = "443" Y = "367" T = "35327" Timestamp = "1271744330" Pressure = "0" />
+		<Point X = "438" Y = "367" T = "35327" Timestamp = "1271744335" Pressure = "0" />
+		<Point X = "433" Y = "367" T = "35327" Timestamp = "1271744341" Pressure = "0" />
+		<Point X = "429" Y = "367" T = "35327" Timestamp = "1271744346" Pressure = "0" />
+		<Point X = "424" Y = "367" T = "35327" Timestamp = "1271744352" Pressure = "0" />
+		<Point X = "419" Y = "367" T = "35327" Timestamp = "1271744356" Pressure = "0" />
+		<Point X = "414" Y = "368" T = "35327" Timestamp = "1271744361" Pressure = "0" />
+		<Point X = "409" Y = "368" T = "35327" Timestamp = "1271744367" Pressure = "0" />
+		<Point X = "404" Y = "368" T = "35327" Timestamp = "1271744371" Pressure = "0" />
+		<Point X = "399" Y = "368" T = "35327" Timestamp = "1271744376" Pressure = "0" />
+		<Point X = "394" Y = "368" T = "35327" Timestamp = "1271744382" Pressure = "0" />
+		<Point X = "389" Y = "368" T = "35327" Timestamp = "1271744386" Pressure = "0" />
+		<Point X = "383" Y = "368" T = "35327" Timestamp = "1271744393" Pressure = "0" />
+		<Point X = "378" Y = "369" T = "35327" Timestamp = "1271744397" Pressure = "0" />
+		<Point X = "373" Y = "369" T = "35327" Timestamp = "1271744402" Pressure = "0" />
+		<Point X = "368" Y = "369" T = "35327" Timestamp = "1271744407" Pressure = "0" />
+		<Point X = "364" Y = "369" T = "35327" Timestamp = "1271744412" Pressure = "0" />
+		<Point X = "359" Y = "370" T = "35327" Timestamp = "1271744417" Pressure = "0" />
+		<Point X = "354" Y = "370" T = "35327" Timestamp = "1271744422" Pressure = "0" />
+		<Point X = "350" Y = "370" T = "35327" Timestamp = "1271744427" Pressure = "0" />
+		<Point X = "346" Y = "370" T = "35327" Timestamp = "1271744432" Pressure = "0" />
+		<Point X = "343" Y = "370" T = "35327" Timestamp = "1271744437" Pressure = "0" />
+		<Point X = "341" Y = "371" T = "35327" Timestamp = "1271744443" Pressure = "0" />
+		<Point X = "340" Y = "371" T = "35327" Timestamp = "1271744448" Pressure = "0" />
+		<Point X = "338" Y = "371" T = "35327" Timestamp = "1271744453" Pressure = "0" />
+		<Point X = "337" Y = "371" T = "35327" Timestamp = "1271744458" Pressure = "0" />
+		<Point X = "336" Y = "371" T = "35327" Timestamp = "1271744463" Pressure = "0" />
+		<Point X = "335" Y = "371" T = "35327" Timestamp = "1271744468" Pressure = "0" />
+		<Point X = "334" Y = "371" T = "35327" Timestamp = "1271744473" Pressure = "0" />
+		<Point X = "333" Y = "371" T = "35327" Timestamp = "1271744479" Pressure = "0" />
+		<Point X = "332" Y = "371" T = "35327" Timestamp = "1271744484" Pressure = "0" />
+		<Point X = "330" Y = "371" T = "35327" Timestamp = "1271744514" Pressure = "0" />
+		<Point X = "329" Y = "371" T = "35327" Timestamp = "1271744529" Pressure = "0" />
+		<Point X = "328" Y = "371" T = "35327" Timestamp = "1271744560" Pressure = "0" />
+		<Point X = "327" Y = "371" T = "35327" Timestamp = "1271744611" Pressure = "0" />
+		<Point X = "327" Y = "371" T = "35327" Timestamp = "1271744616" Pressure = "0" />
+	</Stroke>
+</Gesture>

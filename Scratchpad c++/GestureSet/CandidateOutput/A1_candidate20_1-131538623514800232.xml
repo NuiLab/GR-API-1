@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "A1_candidate20_1">
+<Expected As = "A1"/>
+	<Stroke>
+		<Point X = "387" Y = "140" T = "35771" Timestamp = "1272650578" Pressure = "0" />
+		<Point X = "387" Y = "141" T = "35771" Timestamp = "1272650583" Pressure = "0" />
+		<Point X = "386" Y = "141" T = "35771" Timestamp = "1272650639" Pressure = "0" />
+		<Point X = "385" Y = "141" T = "35771" Timestamp = "1272650659" Pressure = "0" />
+		<Point X = "384" Y = "142" T = "35771" Timestamp = "1272650664" Pressure = "0" />
+		<Point X = "383" Y = "142" T = "35771" Timestamp = "1272650669" Pressure = "0" />
+		<Point X = "382" Y = "143" T = "35771" Timestamp = "1272650674" Pressure = "0" />
+		<Point X = "381" Y = "143" T = "35771" Timestamp = "1272650679" Pressure = "0" />
+		<Point X = "379" Y = "144" T = "35771" Timestamp = "1272650685" Pressure = "0" />
+		<Point X = "378" Y = "145" T = "35771" Timestamp = "1272650690" Pressure = "0" />
+		<Point X = "376" Y = "146" T = "35771" Timestamp = "1272650695" Pressure = "0" />
+		<Point X = "375" Y = "147" T = "35771" Timestamp = "1272650700" Pressure = "0" />
+		<Point X = "371" Y = "149" T = "35771" Timestamp = "1272650705" Pressure = "0" />
+		<Point X = "370" Y = "150" T = "35771" Timestamp = "1272650710" Pressure = "0" />
+		<Point X = "367" Y = "152" T = "35771" Timestamp = "1272650715" Pressure = "0" />
+		<Point X = "364" Y = "154" T = "35771" Timestamp = "1272650720" Pressure = "0" />
+		<Point X = "361" Y = "157" T = "35771" Timestamp = "1272650725" Pressure = "0" />
+		<Point X = "358" Y = "159" T = "35771" Timestamp = "1272650730" Pressure = "0" />
+		<Point X = "356" Y = "162" T = "35771" Timestamp = "1272650735" Pressure = "0" />
+		<Point X = "353" Y = "165" T = "35771" Timestamp = "1272650741" Pressure = "0" />
+		<Point X = "351" Y = "167" T = "35771" Timestamp = "1272650746" Pressure = "0" />
+		<Point X = "348" Y = "169" T = "35771" Timestamp = "1272650751" Pressure = "0" />
+		<Point X = "346" Y = "172" T = "35771" Timestamp = "1272650756" Pressure = "0" />
+		<Point X = "343" Y = "174" T = "35771" Timestamp = "1272650761" Pressure = "0" />
+		<Point X = "342" Y = "177" T = "35771" Timestamp = "1272650766" Pressure = "0" />
+		<Point X = "340" Y = "180" T = "35771" Timestamp = "1272650771" Pressure = "0" />
+		<Point X = "340" Y = "180" T = "35771" Timestamp = "1272650776" Pressure = "0" />
+	</Stroke>
+</Gesture>

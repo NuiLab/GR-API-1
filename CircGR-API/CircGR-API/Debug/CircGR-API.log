@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\franco\documents\vip senior (ids 4918)\circgr-api\circgr-api\circgr-api\geometry.h(15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CircGR-API.vcxproj -> C:\Users\Franco\Documents\VIP Senior (IDS 4918)\CircGR-API\CircGR-API\Debug\CircGR-API.exe
+  CircGR-API.vcxproj -> C:\Users\Franco\Documents\VIP Senior (IDS 4918)\CircGR-API\CircGR-API\Debug\CircGR-API.pdb (Partial PDB)

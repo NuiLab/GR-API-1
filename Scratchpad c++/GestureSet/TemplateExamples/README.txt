@@ -1,0 +1,2 @@
+Examples for each template for methods that require calculation of weights and general machine learning approach go here.
+This is NOT the place to put additional templates for template matching, that is ../TemplateGestures.
